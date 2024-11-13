@@ -1,2 +1,2 @@
-# -SalarMachineLearning-Model
-SalarMachineLearning Model
+# -SalaryMachineLearning-Model
+SalaryMachineLearning Model
